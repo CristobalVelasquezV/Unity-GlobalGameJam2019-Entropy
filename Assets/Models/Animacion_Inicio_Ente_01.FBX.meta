@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 2727907701b730541b305061cfffb479
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EntePrincipal_Uvs
+    100004: EntePrincipal_Uvs001
+    100006: EntePrincipal_Uvs002
+    100008: EntePrincipal_Uvs003
+    100010: EntePrincipal_Uvs004
+    100012: EntePrincipal_Uvs005
+    100014: EntePrincipal_Uvs006
+    100016: EntePrincipal_Uvs007
+    100018: EntePrincipal_Uvs008
+    100020: EntePrincipal_Uvs009
+    100022: EntePrincipal_Uvs010
+    100024: EntePrincipal_Uvs011
+    100026: EntePrincipal_Uvs012
+    100028: EntePrincipal_Uvs013
+    100030: EntePrincipal_Uvs014
+    100032: EntePrincipal_Uvs015
+    100034: EntePrincipal_Uvs016
+    100036: EntePrincipal_Uvs017
+    100038: EntePrincipal_Uvs018
+    100040: EntePrincipal_Uvs019
+    100042: EntePrincipal_Uvs020
+    100044: EntePrincipal_Uvs021
+    100046: EntePrincipal_Uvs022
+    100048: EntePrincipal_Uvs023
+    100050: EntePrincipal_Uvs024
+    100052: EntePrincipal_Uvs025
+    100054: EntePrincipal_Uvs026
+    100056: Group002
+    400000: //RootNode
+    400002: EntePrincipal_Uvs
+    400004: EntePrincipal_Uvs001
+    400006: EntePrincipal_Uvs002
+    400008: EntePrincipal_Uvs003
+    400010: EntePrincipal_Uvs004
+    400012: EntePrincipal_Uvs005
+    400014: EntePrincipal_Uvs006
+    400016: EntePrincipal_Uvs007
+    400018: EntePrincipal_Uvs008
+    400020: EntePrincipal_Uvs009
+    400022: EntePrincipal_Uvs010
+    400024: EntePrincipal_Uvs011
+    400026: EntePrincipal_Uvs012
+    400028: EntePrincipal_Uvs013
+    400030: EntePrincipal_Uvs014
+    400032: EntePrincipal_Uvs015
+    400034: EntePrincipal_Uvs016
+    400036: EntePrincipal_Uvs017
+    400038: EntePrincipal_Uvs018
+    400040: EntePrincipal_Uvs019
+    400042: EntePrincipal_Uvs020
+    400044: EntePrincipal_Uvs021
+    400046: EntePrincipal_Uvs022
+    400048: EntePrincipal_Uvs023
+    400050: EntePrincipal_Uvs024
+    400052: EntePrincipal_Uvs025
+    400054: EntePrincipal_Uvs026
+    400056: Group002
+    2100000: 03 - Default
+    2100002: mat 02
+    2300000: EntePrincipal_Uvs
+    2300002: EntePrincipal_Uvs001
+    2300004: EntePrincipal_Uvs002
+    2300006: EntePrincipal_Uvs003
+    2300008: EntePrincipal_Uvs004
+    2300010: EntePrincipal_Uvs005
+    2300012: EntePrincipal_Uvs006
+    2300014: EntePrincipal_Uvs007
+    2300016: EntePrincipal_Uvs008
+    2300018: EntePrincipal_Uvs009
+    2300020: EntePrincipal_Uvs010
+    2300022: EntePrincipal_Uvs011
+    2300024: EntePrincipal_Uvs012
+    2300026: EntePrincipal_Uvs013
+    2300028: EntePrincipal_Uvs014
+    2300030: EntePrincipal_Uvs015
+    2300032: EntePrincipal_Uvs016
+    2300034: EntePrincipal_Uvs017
+    2300036: EntePrincipal_Uvs018
+    2300038: EntePrincipal_Uvs019
+    2300040: EntePrincipal_Uvs020
+    2300042: EntePrincipal_Uvs021
+    2300044: EntePrincipal_Uvs022
+    2300046: EntePrincipal_Uvs023
+    2300048: EntePrincipal_Uvs024
+    2300050: EntePrincipal_Uvs025
+    2300052: EntePrincipal_Uvs026
+    3300000: EntePrincipal_Uvs
+    3300002: EntePrincipal_Uvs001
+    3300004: EntePrincipal_Uvs002
+    3300006: EntePrincipal_Uvs003
+    3300008: EntePrincipal_Uvs004
+    3300010: EntePrincipal_Uvs005
+    3300012: EntePrincipal_Uvs006
+    3300014: EntePrincipal_Uvs007
+    3300016: EntePrincipal_Uvs008
+    3300018: EntePrincipal_Uvs009
+    3300020: EntePrincipal_Uvs010
+    3300022: EntePrincipal_Uvs011
+    3300024: EntePrincipal_Uvs012
+    3300026: EntePrincipal_Uvs013
+    3300028: EntePrincipal_Uvs014
+    3300030: EntePrincipal_Uvs015
+    3300032: EntePrincipal_Uvs016
+    3300034: EntePrincipal_Uvs017
+    3300036: EntePrincipal_Uvs018
+    3300038: EntePrincipal_Uvs019
+    3300040: EntePrincipal_Uvs020
+    3300042: EntePrincipal_Uvs021
+    3300044: EntePrincipal_Uvs022
+    3300046: EntePrincipal_Uvs023
+    3300048: EntePrincipal_Uvs024
+    3300050: EntePrincipal_Uvs025
+    3300052: EntePrincipal_Uvs026
+    4300000: EntePrincipal_Uvs025
+    4300002: EntePrincipal_Uvs001
+    4300004: EntePrincipal_Uvs002
+    4300006: EntePrincipal_Uvs003
+    4300008: EntePrincipal_Uvs004
+    4300010: EntePrincipal_Uvs005
+    4300012: EntePrincipal_Uvs006
+    4300014: EntePrincipal_Uvs007
+    4300016: EntePrincipal_Uvs008
+    4300018: EntePrincipal_Uvs009
+    4300020: EntePrincipal_Uvs010
+    4300022: EntePrincipal_Uvs011
+    4300024: EntePrincipal_Uvs012
+    4300026: EntePrincipal_Uvs013
+    4300028: EntePrincipal_Uvs014
+    4300030: EntePrincipal_Uvs015
+    4300032: EntePrincipal_Uvs016
+    4300034: EntePrincipal_Uvs017
+    4300036: EntePrincipal_Uvs018
+    4300038: EntePrincipal_Uvs019
+    4300040: EntePrincipal_Uvs020
+    4300042: EntePrincipal_Uvs021
+    4300044: EntePrincipal_Uvs022
+    4300046: EntePrincipal_Uvs023
+    4300048: EntePrincipal_Uvs024
+    4300050: EntePrincipal_Uvs026
+    4300052: EntePrincipal_Uvs
+    7400000: AnimacionInicio
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AnimacionInicio
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.23958941
+        functionName: FirstCameraChange
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: f9d56f2f8989b264da8eb902d6f0b2e2,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.894235
+        functionName: SecondCameraChange
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: f9d56f2f8989b264da8eb902d6f0b2e2,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9382903
+        functionName: ThirdCameraChange
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: f9d56f2f8989b264da8eb902d6f0b2e2,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.98550797
+        functionName: destroyAnimation
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: f9d56f2f8989b264da8eb902d6f0b2e2,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: soundEvent
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: f9d56f2f8989b264da8eb902d6f0b2e2,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.33333334
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.33333334
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
